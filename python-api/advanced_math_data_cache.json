@@ -1,0 +1,176 @@
+{
+  "timestamp": "2025-11-04T10:42:17.611623",
+  "data": [
+    {
+      "code": "KA_FRACTION_EQUIVALENCE",
+      "name": "Fraction Equivalence Misunderstanding",
+      "description": "Student does not understand that fractions can be equivalent even with different numerators and denominators",
+      "examples": [
+        "Believed 1/2 and 2/4 are different numbers",
+        "Thought 3/6 is smaller than 1/2",
+        "Could not identify equivalent fractions in simplest form"
+      ],
+      "subject": "fractions",
+      "grade_level": "3-5",
+      "source": "Khan Academy Learning Data",
+      "severity": "medium",
+      "intervention_strategies": [
+        "Use visual fraction models",
+        "Practice with fraction bars",
+        "Connect to real-world examples like pizza slices"
+      ]
+    },
+    {
+      "code": "KA_NEGATIVE_NUMBERS",
+      "name": "Negative Number Conceptual Error",
+      "description": "Student struggles with operations involving negative numbers and their relative values",
+      "examples": [
+        "Thought -5 is greater than -2",
+        "Believed subtracting a negative makes number smaller",
+        "Confused -3 + 5 = -8"
+      ],
+      "subject": "integers",
+      "grade_level": "6-7",
+      "source": "Khan Academy Assessment Data",
+      "severity": "high",
+      "intervention_strategies": [
+        "Use number line visualization",
+        "Practice with temperature examples",
+        "Connect to real-world debt concepts"
+      ]
+    },
+    {
+      "code": "RESEARCH_PROPORTIONAL_REASONING",
+      "name": "Proportional Reasoning Deficiency",
+      "description": "Student applies additive reasoning to proportional situations instead of multiplicative reasoning",
+      "examples": [
+        "If 3 pencils cost $1.50, thought 6 pencils cost $3.00 (correct) but 4 pencils cost $2.00 (incorrect reasoning)",
+        "Used addition instead of multiplication for ratio problems",
+        "Could not scale recipes proportionally"
+      ],
+      "subject": "ratios",
+      "grade_level": "6-8",
+      "source": "Mathematics Education Research Journal",
+      "severity": "high",
+      "intervention_strategies": [
+        "Use ratio tables",
+        "Practice with scaling exercises",
+        "Connect to real-world proportion problems"
+      ]
+    },
+    {
+      "code": "RESEARCH_ALGEBRAIC_THINKING",
+      "name": "Algebraic Thinking Transition Issue",
+      "description": "Student struggles to transition from arithmetic to algebraic thinking, particularly with variable representation",
+      "examples": [
+        "Treated variables as specific numbers rather than unknowns",
+        "Could not set up equations from word problems",
+        "Struggled with representing relationships algebraically"
+      ],
+      "subject": "algebra",
+      "grade_level": "7-9",
+      "source": "Algebra Education Research",
+      "severity": "medium",
+      "intervention_strategies": [
+        "Use pattern recognition activities",
+        "Practice translating words to symbols",
+        "Work with function machines"
+      ]
+    },
+    {
+      "code": "CCSS_FRACTION_OPERATIONS",
+      "name": "Fraction Operations Conceptual Gap",
+      "description": "Student performs fraction operations procedurally without understanding the underlying concepts",
+      "examples": [
+        "Multiplies fractions by multiplying numerators and denominators without understanding why",
+        "Finds common denominators for addition but doesn't understand equivalence",
+        "Divides fractions by inverting and multiplying as a rule without conceptual understanding"
+      ],
+      "subject": "fractions",
+      "grade_level": "5-6",
+      "source": "Common Core State Standards",
+      "severity": "high",
+      "intervention_strategies": [
+        "Use area models for multiplication",
+        "Practice with visual representations",
+        "Connect to real-world fraction problems"
+      ]
+    },
+    {
+      "code": "TIMSS_GEOMETRY_VISUALIZATION",
+      "name": "Spatial Visualization Difficulty",
+      "description": "Student struggles with mental rotation and spatial reasoning in geometry problems",
+      "examples": [
+        "Could not visualize 3D shapes from 2D representations",
+        "Struggled with symmetry and transformation concepts",
+        "Had difficulty with coordinate geometry"
+      ],
+      "subject": "geometry",
+      "grade_level": "4-8",
+      "source": "TIMSS International Assessment",
+      "severity": "medium",
+      "intervention_strategies": [
+        "Use manipulatives and 3D models",
+        "Practice with spatial puzzles",
+        "Work with coordinate grid activities"
+      ]
+    },
+    {
+      "code": "PISA_MATHEMATICAL_LITERACY",
+      "name": "Mathematical Literacy Application Issue",
+      "description": "Student can perform mathematical procedures but struggles to apply them in real-world contexts",
+      "examples": [
+        "Could calculate percentages but not apply to discount problems",
+        "Solved equations but couldn't set them up from word problems",
+        "Knew formulas but couldn't apply to novel situations"
+      ],
+      "subject": "application",
+      "grade_level": "8-12",
+      "source": "PISA International Assessment",
+      "severity": "high",
+      "intervention_strategies": [
+        "Use real-world problem scenarios",
+        "Practice with authentic applications",
+        "Work on problem-solving strategies"
+      ]
+    },
+    {
+      "code": "STUDENT_PLACE_VALUE",
+      "name": "Place Value Misunderstanding",
+      "description": "Student does not understand the value of digits based on their position",
+      "examples": [
+        "Thought 305 means 3 + 0 + 5 instead of 300 + 0 + 5",
+        "Believed 0.50 and 0.5 are different numbers",
+        "Added decimals without aligning decimal points"
+      ],
+      "subject": "number_sense",
+      "grade_level": "2-4",
+      "source": "Student Work Analysis",
+      "severity": "high",
+      "intervention_strategies": [
+        "Use place value charts",
+        "Practice with base-ten blocks",
+        "Work on expanded form"
+      ]
+    },
+    {
+      "code": "STUDENT_MEASUREMENT_UNITS",
+      "name": "Measurement Unit Confusion",
+      "description": "Student confuses different measurement units or conversion factors",
+      "examples": [
+        "Thought 1 meter = 100 centimeters but 1 square meter = 100 square centimeters",
+        "Confused perimeter (linear) with area (square) units",
+        "Used wrong conversion factors between metric and imperial"
+      ],
+      "subject": "measurement",
+      "grade_level": "3-6",
+      "source": "Student Work Analysis",
+      "severity": "medium",
+      "intervention_strategies": [
+        "Use real measurement activities",
+        "Practice with unit conversion charts",
+        "Work on understanding derived units"
+      ]
+    }
+  ]
+}
