@@ -13,7 +13,7 @@ const analysisController = {
         });
       }
 
-      // Simulate AI processing delay
+   
       await new Promise(resolve => setTimeout(resolve, 800 + Math.random() * 700));
 
       const analysis = analyzeExplanation(explanation);
